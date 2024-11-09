@@ -10,6 +10,6 @@ I'm a **systems engineer** passionate about web and a litle bit of mobile develo
 ## 📫 Contacto
 - **Email:** vegadocmx@gmail.com
 
-
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?DocMX=DocMX&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DocMX&show_icons=true&theme=radical)
+
