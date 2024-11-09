@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-I'm a **systems engineer** passionate about web and a little bit of mobile development. I specialize in the use of technologies such as **Laravel**, **Node.js**, **React Native**, and **Vue**.
+I'm a systems engineer passionate about web and a little bit of mobile development. I specialize in the use of technologies such as Laravel, Node.js, React Native, and Vue.
 </div>
 
 ## 🚀 Tecnologías y herramientas
