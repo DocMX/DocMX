@@ -1,9 +1,7 @@
+# Hello! 👋 I'm Jorge Vega
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Hi! I'm Jorge Vega" width="150"/>
 </div>
-
-# Hello! 👋 I'm Jorge Vega
-
 I'm a **systems engineer** passionate about web and a little bit of mobile development. I specialize in the use of technologies such as **Laravel**, **Node.js**, **React Native**, and **Vue**.
 
 ## 🚀 Tecnologías y herramientas
