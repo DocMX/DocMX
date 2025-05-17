@@ -14,7 +14,7 @@ I'm a systems engineer passionate about web and a little bit of mobile developme
 | 🐘 **PHP**            | 🌐 **Laravel**            | 💾 **MySQL**      |
 | ⚙️ **JavaScript**     | ⚛️ **React**              | 🐘 **PostgreSQL** |
 | 🐍 **Python**         | 🌿 **Vue 3**              | 🍃 **MongoDB**    |
-|                       | 📱 **React Native**       |  ⚪️ **Firebase     |
+|                       | 📱 **React Native**       |  ⚪️ **Firebase**  |
 |                       | 🚀 **Node.js**            |                   |
 
 ## 📫 Contact
