@@ -7,19 +7,19 @@
 I'm a systems engineer passionate about web and a little bit of mobile development. I specialize in the use of technologies such as Laravel, Node.js, React Native, and Vue.
 </div>
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Technologies and Tools
 
-| 👨‍💻 Lenguajes        | 🔧 Frameworks y Librerías | 🗄️ Bases de Datos |
+| 👨‍💻  Languages       | 🔧 Frameworks and Libraries | 🗄️ Databases |
 |-----------------------|---------------------------|-------------------|
 | 🐘 **PHP**            | 🌐 **Laravel**            | 💾 **MySQL**      |
 | ⚙️ **JavaScript**     | ⚛️ **React**              | 🐘 **PostgreSQL** |
 | 🐍 **Python**         | 🌿 **Vue 3**              | 🍃 **MongoDB**    |
-|                       | 📱 **React Native**       |                   |
+|                       | 📱 **React Native**       |  ⚪️ **Firebase     |
 |                       | 🚀 **Node.js**            |                   |
 
-## 📫 Contacto
+## 📫 Contact
 - **Email:** vegadocmx@gmail.com
 
 ---
 
-**Idiomas:** Spanish | English | 中文 | Français | Русский | عربي | 日本語 | Português | Türkçe
+**Languages:** Spanish | English | 中文 | Français | Русский | عربي | 日本語 | Português | Türkçe
