@@ -18,7 +18,7 @@ I'm a systems engineer passionate about web and a little bit of mobile developme
 |                       | 🚀 **Node.js**            |                   |
 
 ## 📫 Contact
-- **Email:** vegadocmx@gmail.com
+- 📩 [Send me an email](mailto:vegadocmx@gmail.com)
 
 ---
 
